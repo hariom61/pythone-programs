@@ -1,0 +1,25 @@
+URL https://www.google.co.in/bbbbb
+ Bad URL please check your url 
+
+URL https://www.google.co.in/
+ Status code is 200 
+
+URL https://www.goosddsgle.co.in/bhttps://www.google.co.in/
+ Bad URL please check your url 
+
+URL https://www.google.co.in/
+ Status code is 200 
+
+URL https://www.google.co.in/
+ Status code is 200 
+
+URL https://www.google.co.in/
+ Status code is 200 
+
+URL https://www.google.co.in/
+ Status code is 200 
+
+URL https://www.google.co.in/
+ Status code is 200 
+
+URL ://www.google.co.in/ ValueError
